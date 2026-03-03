@@ -1,27 +1,39 @@
 # BotaniX
 AI Plant Disease Detection Using EfficientNetB3
 
-# 🌿 DeepVision · BotaniX
+# 🌿 DeepVision · BotaniX – AI Plant Pathologist
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange.svg)](https://tensorflow.org)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Accuracy](https://img.shields.io/badge/Accuracy-97.6%25-success.svg)]()
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![TensorFlow 2.15](https://img.shields.io/badge/TensorFlow-2.15-orange)](https://tensorflow.org)
+[![Flask](https://img.shields.io/badge/Flask-2.3+-green)](https://flask.palletsprojects.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-&gt; **Edge-ready plant disease detection system** powered by EfficientNetB3 and dual LLM architecture (Gemini 3 Flash + Gemma2).
+**DeepVision · BotaniX** is an end-to-end plant disease detection system combining a high-accuracy EfficientNetB3 vision model with conversational AI (Gemini 3 / Gemma2). Built for researchers, farmers, and developers – it identifies 38 plant diseases from leaf images and provides treatment recommendations through a natural language interface.
 
-Built by **Pratik Pokhrel** ([@pratikpokhrl](https://github.com/pratikpokhrl)) & **Raunak Bhetwal** ([@raunakbhetwal](https://github.com/raunakbhetwal))
+![DeepVision Demo](assets/chart_model_comparison.png)
 
-![BotaniX Demo](assets/demo.gif)
+---
 
-## 🎯 Key Features
+## 👥 Creators
 
-- **97.6% Top-1 Accuracy** on 38 disease classes
-- **300ms average inference latency** on edge devices
-- **Dual LLM System**: Gemini 3 Flash (API) + Gemma2 9B (Local via Ollama)
-- **Edge Optimized**: 12MB model size, runs on CPU
-- **Real-time Visualization**: Canvas-based neural UI with confidence charts
-- **Comprehensive Database**: 38 plant diseases with treatment recommendations
+| Name | Instagram | GitHub |
+|------|-----------|--------|
+| **Pratik Pokhrel** | [@pratikpokhrl](https://instagram.com/pratikpokhrl) | [pratikpokhrl](https://github.com/pratikpokhrl) |
+| **Raunak Bhetwal** | [@raunakbhetwal](https://instagram.com/raunakbhetwal) | [raunakbhetwal](https://github.com/raunakbhetwal) |
+
+---
+
+## ✨ Features
+
+- **🔍 Vision Model** – EfficientNetB3 (300x300) trained on 38 disease classes with **97.6% accuracy**
+- **🧠 Dual AI Engine** – Choose between **Gemini 3 Flash** (cloud) or **Gemma2 via Ollama** (local)
+- **💬 Conversational Interface** – Ask about treatments, prevention, symptoms in plain English
+- **📊 Rich Visualizations** – Real-time neural network animation, confusion matrices, training curves
+- **📚 Disease Database** – 38 crops/diseases with organic & chemical treatments, prevention tips
+- **⚡ Fast Inference** – ~300ms per image on GPU, optimized preprocessing
+- **🌐 Web Interface** – Clean, cinematic UI with dark theme
+
+---
 
 ## 🏗️ Architecture
+
