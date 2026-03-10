@@ -21,6 +21,26 @@
 13. [License](#license)
 
 ---
+## 👥 Creators
+
+| Name | Instagram | GitHub |
+|------|-----------|--------|
+| **Pratik Pokhrel** | [@pratikpokhrl](https://instagram.com/pratikpokhrl) | [spongly](https://github.com/Spongly) |
+| **Raunak Bhetwal** | [@raunakbhetwal](https://instagram.com/raunakbhetwal) | [raunakbhetwal](https://github.com/worrye) |
+
+---
+
+### Model Performance
+| Model | Accuracy |
+|-------|----------|
+| VGG16 | 88.5% |
+| ResNet50 | 92.4% |
+| **EfficientNetB3 (Ours)** | **97.6%** |
+
+![Confusion Matrix](assets/chart_confusion_matrix.png)
+![Training Curves](assets/chart_training_curve.png)
+
+---
 
 ## 🎯 Project Overview
 
