@@ -26,7 +26,7 @@
 | Name | Instagram | GitHub |
 |------|-----------|--------|
 | **Pratik Pokhrel** | [@pratikpokhrl](https://instagram.com/pratikpokhrl) | [spongly](https://github.com/Spongly) |
-| **Raunak Bhetwal** | [@raunakbhetwal](https://instagram.com/raunakbhetwal) | [raunakbhetwal](https://github.com/worrye) |
+| **Raunak Bhetwal** | [@raunakbhetwal](https://instagram.com/raunakbhetwal) | [banwore](https://github.com/banwore) |
 
 ---
 
